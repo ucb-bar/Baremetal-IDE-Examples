@@ -1,0 +1,3 @@
+[submodule "Baremetal-Min"]
+	path = Baremetal-Min
+	url = git@github.com:ucb-bar/Baremetal-IDE.git
